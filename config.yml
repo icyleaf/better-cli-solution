@@ -1,0 +1,194 @@
+title: Better CLI Solution
+sections:
+  - name: cat
+    description: Concatenate and print files
+    alternatives:
+      - name: bat
+        repo: https://github.com/sharkdp/bat
+      - name: hexyl
+        repo: https://github.com/sharkdp/hexyl
+
+  - name: cd
+    description: Navigate directories
+    alternatives:
+      - name: autojump
+        repo: https://github.com/wting/autojump
+      - name: z
+        repo: https://github.com/rupa/z
+      - name: zoxide
+        repo: https://github.com/ajeetdsouza/zoxide
+      - name: broot
+        repo: https://github.com/Canop/broot
+
+  - name: ls
+    description: Directory Listing
+    alternatives:
+      - name: nat
+        repo: https://github.com/willdoescode/nat
+        description: ls alternative with useful info and a splash of color.
+      - name: exa
+        repo: https://github.com/ogham/exa
+        description: A modern replacement for ls.
+
+  - name: grep
+    description: File pattern searcher
+    alternatives:
+      - name: ripgrep
+        repo: https://github.com/BurntSushi/ripgrep
+      - name: jq
+        repo: https://github.com/stedolan/jq
+      - name: fx
+        repo: https://github.com/antonmedv/fx
+
+  - name: top
+    description: Process viewer
+    alternatives:
+      - name: htop
+        repo: https://github.com/htop-dev/htop
+      - name: bpytop
+        repo: https://github.com/aristocratos/bpytop
+      - name: btop
+        repo: https://github.com/aristocratos/btop
+      - name: glances
+        repo: https://github.com/nicolargo/glances
+      - name: rtop
+        repo: https://github.com/rapidloop/rtop
+
+  - name: du
+    description: Disk Usage Analyze
+    alternatives:
+      - name: ncdu
+        repo: https://code.blicky.net/yorhel/ncdu
+        description: NCurses Disk Usage
+      - name: duf
+        repo: https://github.com/muesli/duf
+
+  - name: man
+    description: CLI manual pages
+    alternatives:
+      - name: tldr
+        repo: https://github.com/tldr-pages/tldr
+
+  - name: ping
+    description: Network Datagram
+    alternatives:
+      - name: pingtop
+        repo: https://github.com/laixintao/pingtop
+        description: Ping multiple servers and show results in a top-like terminal UI.
+      - name: gping
+        repo: https://github.com/orf/gping
+
+  - name: history
+    description: Shell history
+    alternatives:
+      - name: mcfly
+        repo: https://github.com/cantino/mcfly
+
+  - name: dig
+    description: DNS lookup utility
+    alternatives:
+      - name: doggo
+        repo: https://github.com/mr-karan/doggo/
+        description: 🐶 Command-line DNS Client for Humans. Written in Golang
+
+  - name: find
+    description: File/Directory find tool
+    alternatives:
+      - name: fzf
+        repo: https://github.com/junegunn/fzf
+      - name: fd
+        repo: https://github.com/sharkdp/fd
+
+  - name: curl
+    description: HTTP Client
+    alternatives:
+      - name: httpie
+        repo: https://github.com/httpie/httpie
+      - name: bat
+        repo: https://github.com/astaxie/bat
+      - name: websocat
+        repo: https://github.com/vi/websocat
+
+  - name: watch
+    description: watch command
+    alternatives:
+      - name: viddy
+        repo: https://github.com/sachaos/viddy
+
+  - name: docker
+    description: Docker inspect/ps/top/system
+    alternatives:
+      - name: dive
+        repo: https://github.com/wagoodman/dive
+      - name: ctop
+        repo: https://github.com/bcicen/ctop
+      - name: lazydocker
+        repo: https://github.com/jesseduffield/lazydocker
+      - name: doku
+        repo: https://github.com/amerkurev/doku
+
+  - name: git pager
+    description: Git displaying output tool
+    alternatives:
+      - name: tig
+        repo: https://github.com/jonas/tig
+      - name: delta
+        repo: https://github.com/dandavison/delta
+
+  - name: ssh
+    description: Remote login client
+    alternatives:
+      - name: mosh
+        repo: https://github.com/mobile-shell/mosh
+      - name: assh
+        repo: https://github.com/moul/assh
+
+  - name: wget
+    description: Network downloader
+    alternatives:
+      - name: axel
+        repo: https://github.com/axel-download-accelerator/axel
+      - name: aria2
+        repo: https://github.com/aria2/aria2
+      - name: youtube-dl
+        repo: https://github.com/ytdl-org/youtube-dl
+      - name: lux
+        repo: https://github.com/iawia002/lux
+
+  - name: screen
+    description: Screen manager
+    alternatives:
+      - name: tmux
+        repo: https://github.com/tmux/tmux
+
+  - name: dmesg
+    description: Display the system message
+    alternatives:
+      - name: neofetch
+        repo: https://github.com/dylanaraps/neofetch
+      - name: macchina
+        repo: https://github.com/Macchina-CLI/macchina
+      - name: pfetch
+        repo: https://github.com/dylanaraps/pfetch
+      - name: freshfetch
+        repo: https://github.com/K4rakara/freshfetch
+    references:
+      - name: awesome-fetch
+        link: https://beucismis.github.io/awesome-fetch/
+
+  - name: netstat
+    description: Socket statistics
+    alternatives:
+      - name: neoss
+        repo: https://github.com/PabloLec/neoss
+
+  - name: traceroute
+    description: network diagnostic tool
+    alternatives:
+      - name: mtr
+        repo: https://github.com/traviscross/mtr
+
+  - description: Package version manager
+    alternatives:
+      - name: asdf
+        repo: https://github.com/asdf-vm/asdf
