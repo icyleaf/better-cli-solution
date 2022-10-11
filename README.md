@@ -22,6 +22,7 @@
 - [ripgrep](https://github.com/BurntSushi/ripgrep): ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [jq](https://github.com/stedolan/jq): Command-line JSON processor
 - [fx](https://github.com/antonmedv/fx): Terminal JSON viewer
+- [yq](https://github.com/mikefarah/yq): yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 
 ## `top` Process viewer
 
@@ -102,14 +103,19 @@
 - [macchina](https://github.com/Macchina-CLI/macchina): A system information frontend, with an (unhealthy) emphasis on performance.
 - [pfetch](https://github.com/dylanaraps/pfetch): 🐧 A pretty system information tool written in POSIX sh.
 - [freshfetch](https://github.com/K4rakara/freshfetch): A fresh take on neofetch
+- [screenFetch](https://github.com/KittyKatt/screenFetch): Fetches system/theme information in terminal for Linux desktop screenshots.
 
 ## `netstat` Socket statistics
 
 - [neoss](https://github.com/PabloLec/neoss): :heavy_check_mark: User-friendly and detailed socket statistics with a Terminal UI.
 
-## `traceroute` network diagnostic tool
+## `traceroute` Network diagnostic tool
 
 - [mtr](https://github.com/traviscross/mtr): Official repository for mtr, a network diagnostic tool
+
+## `nmap` Network exploration tool and security / port scanner
+
+- [Smap](https://github.com/s0md3v/Smap): a drop-in replacement for Nmap powered by shodan.io
 
 ## Package version manager
 
