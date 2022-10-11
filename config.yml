@@ -185,10 +185,16 @@ sections:
         repo: https://github.com/PabloLec/neoss
 
   - name: traceroute
-    description: network diagnostic tool
+    description: Network diagnostic tool
     alternatives:
       - name: mtr
         repo: https://github.com/traviscross/mtr
+        
+  - name: nmap
+    description: Network exploration tool and security / port scanner
+    alternatives:
+      - name: Smap
+        repo: https://github.com/s0md3v/Smap
 
   - description: Package version manager
     alternatives:
