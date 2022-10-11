@@ -39,7 +39,8 @@ sections:
         repo: https://github.com/stedolan/jq
       - name: fx
         repo: https://github.com/antonmedv/fx
-      - repo: https://github.com/mikefarah/yq
+      - name: yq
+        repo: https://github.com/mikefarah/yq
 
   - name: top
     description: Process viewer
