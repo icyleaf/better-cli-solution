@@ -174,7 +174,8 @@ sections:
         repo: https://github.com/dylanaraps/pfetch
       - name: freshfetch
         repo: https://github.com/K4rakara/freshfetch
-      - repo: https://github.com/KittyKatt/screenFetch
+      - name: screenFetch
+        repo: https://github.com/KittyKatt/screenFetch
     references:
       - name: awesome-fetch
         link: https://beucismis.github.io/awesome-fetch/
