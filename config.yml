@@ -198,6 +198,12 @@ sections:
       - name: Smap
         repo: https://github.com/s0md3v/Smap
 
+  - name: pbcopy
+    description: Copy text to your system clipboard
+    alternatives:
+      - name: shcopy
+        repo: https://github.com/aymanbagabas/shcopy
+
   - description: Package version manager
     alternatives:
       - name: asdf
