@@ -117,6 +117,10 @@
 
 - [Smap](https://github.com/s0md3v/Smap): a drop-in replacement for Nmap powered by shodan.io
 
+## `pbcopy` Copy text to your system clipboard
+
+- [shcopy](https://github.com/aymanbagabas/shcopy): Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
+
 ## Package version manager
 
 - [asdf](https://github.com/asdf-vm/asdf): Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
