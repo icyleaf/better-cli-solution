@@ -79,6 +79,8 @@ sections:
         description: Ping multiple servers and show results in a top-like terminal UI.
       - name: gping
         repo: https://github.com/orf/gping
+      - name: nali
+        repo: https://github.com/zu1k/nali
 
   - name: history
     description: Shell history
@@ -191,6 +193,8 @@ sections:
     alternatives:
       - name: mtr
         repo: https://github.com/traviscross/mtr
+      - name: nexttrace
+        repo: https://github.com/sjlleo/nexttrace
         
   - name: nmap
     description: Network exploration tool and security / port scanner
