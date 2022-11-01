@@ -45,6 +45,7 @@
 
 - [pingtop](https://github.com/laixintao/pingtop): Ping multiple servers and show results in a top-like terminal UI.
 - [gping](https://github.com/orf/gping): Ping, but with a graph
+- [nali](https://github.com/zu1k/nali): 一个查询IP地理信息和CDN服务提供商的离线终端工具.An offline tool for querying IP geographic information and CDN provider.
 
 ## `history` Shell history
 
@@ -112,6 +113,7 @@
 ## `traceroute` Network diagnostic tool
 
 - [mtr](https://github.com/traviscross/mtr): Official repository for mtr, a network diagnostic tool
+- [nexttrace](https://github.com/sjlleo/nexttrace): An open source visual route tracking CLI tool
 
 ## `nmap` Network exploration tool and security / port scanner
 
@@ -119,7 +121,7 @@
 
 ## `pbcopy` Copy text to your system clipboard
 
-- [shcopy](https://github.com/aymanbagabas/shcopy): Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
+- [shcopy](https://github.com/aymanbagabas/shcopy): 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
 
 ## Package version manager
 
