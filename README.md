@@ -87,6 +87,10 @@
 - [mosh](https://github.com/mobile-shell/mosh): Mobile Shell
 - [assh](https://github.com/moul/assh): :computer: make your ssh client smarter
 
+## `tee` duplicate standard input
+
+- [teetail](https://github.com/sl236/teetail): teetail - tee, but only the tail goes in the file
+
 ## `wget` Network downloader
 
 - [axel](https://github.com/axel-download-accelerator/axel): Lightweight CLI download accelerator
