@@ -146,7 +146,13 @@ sections:
         repo: https://github.com/mobile-shell/mosh
       - name: assh
         repo: https://github.com/moul/assh
-
+        
+  - name: tee
+    description: duplicate standard input
+    alternatives:
+      - name: teetail
+        repo: https://github.com/sl236/teetail
+        
   - name: wget
     description: Network downloader
     alternatives:
