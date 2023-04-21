@@ -94,6 +94,8 @@ sections:
       - name: doggo
         repo: https://github.com/mr-karan/doggo/
         description: 🐶 Command-line DNS Client for Humans. Written in Golang
+      - name: q
+        repo: https://github.com/natesales/q
 
   - name: find
     description: File/Directory find tool
