@@ -22,7 +22,7 @@
 - [ripgrep](https://github.com/BurntSushi/ripgrep): ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [jq](https://github.com/stedolan/jq): Command-line JSON processor
 - [fx](https://github.com/antonmedv/fx): Terminal JSON viewer
-- [yq](https://github.com/mikefarah/yq): yq is a portable command-line YAML, JSON, XML, CSV and properties processor
+- [yq](https://github.com/mikefarah/yq): yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 
 ## `top` Process viewer
 
@@ -54,6 +54,7 @@
 ## `dig` DNS lookup utility
 
 - [doggo](https://github.com/mr-karan/doggo/): 🐶 Command-line DNS Client for Humans. Written in Golang
+- [q](https://github.com/natesales/q): A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
 
 ## `find` File/Directory find tool
 
@@ -105,7 +106,7 @@
 ## `dmesg` Display the system message
 
 - [neofetch](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
-- [macchina](https://github.com/Macchina-CLI/macchina): A system information frontend, with an (unhealthy) emphasis on performance.
+- [macchina](https://github.com/Macchina-CLI/macchina): A system information frontend with an emphasis on performance.
 - [pfetch](https://github.com/dylanaraps/pfetch): 🐧 A pretty system information tool written in POSIX sh.
 - [freshfetch](https://github.com/K4rakara/freshfetch): A fresh take on neofetch
 - [screenFetch](https://github.com/KittyKatt/screenFetch): Fetches system/theme information in terminal for Linux desktop screenshots.
