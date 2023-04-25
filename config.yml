@@ -166,6 +166,12 @@ sections:
         repo: https://github.com/ytdl-org/youtube-dl
       - name: lux
         repo: https://github.com/iawia002/lux
+        
+  - name: wc
+    description: Word, line, character, byte and code count
+    alternatives:
+      - name: cloc
+        repo: https://github.com/AlDanial/cloc
 
   - name: screen
     description: Screen manager
