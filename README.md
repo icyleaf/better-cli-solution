@@ -99,6 +99,10 @@
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
 - [lux](https://github.com/iawia002/lux): 👾 Fast and simple video download library and CLI tool written in Go
 
+## `wc` Word, line, character, byte and code count
+
+- [cloc](https://github.com/AlDanial/cloc): cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
+
 ## `screen` Screen manager
 
 - [tmux](https://github.com/tmux/tmux): tmux source code
