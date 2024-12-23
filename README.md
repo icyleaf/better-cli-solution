@@ -12,6 +12,10 @@
 - [zoxide](https://github.com/ajeetdsouza/zoxide): A smarter cd command. Supports all major shells.
 - [broot](https://github.com/Canop/broot): A new way to see and navigate directory trees : https://dystroy.org/broot
 
+## `cp` Copy files
+
+- [mc](https://github.com/thewh1teagle/mc): Modern file copying
+
 ## `ls` Directory Listing
 
 - [nat](https://github.com/willdoescode/nat): ls alternative with useful info and a splash of color.
@@ -20,8 +24,8 @@
 ## `grep` File pattern searcher
 
 - [ripgrep](https://github.com/BurntSushi/ripgrep): ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [jq](https://github.com/stedolan/jq): Command-line JSON processor
-- [fx](https://github.com/antonmedv/fx): Terminal JSON viewer
+- [jq](https://github.com/stedolan/jq): 
+- [fx](https://github.com/antonmedv/fx): Terminal JSON viewer & processor
 - [yq](https://github.com/mikefarah/yq): yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 
 ## `top` Process viewer
@@ -45,7 +49,7 @@
 
 - [pingtop](https://github.com/laixintao/pingtop): Ping multiple servers and show results in a top-like terminal UI.
 - [gping](https://github.com/orf/gping): Ping, but with a graph
-- [nali](https://github.com/zu1k/nali): 一个查询IP地理信息和CDN服务提供商的离线终端工具.An offline tool for querying IP geographic information and CDN provider.
+- [nali](https://github.com/zu1k/nali): An offline tool for querying IP geographic information and CDN provider. 一个查询IP地理信息和CDN服务提供商的离线终端工具.
 
 ## `history` Shell history
 
@@ -63,7 +67,7 @@
 
 ## `curl` HTTP Client
 
-- [httpie](https://github.com/httpie/httpie): 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [httpie](https://github.com/httpie/httpie): 
 - [bat](https://github.com/astaxie/bat): Go implement CLI, cURL-like tool for humans
 - [websocat](https://github.com/vi/websocat): Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 
@@ -81,7 +85,7 @@
 ## `git pager` Git displaying output tool
 
 - [tig](https://github.com/jonas/tig): Text-mode interface for git
-- [delta](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, and grep output
+- [delta](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, grep, and blame output
 
 ## `ssh` Remote login client
 
@@ -122,7 +126,7 @@
 ## `traceroute` Network diagnostic tool
 
 - [mtr](https://github.com/traviscross/mtr): Official repository for mtr, a network diagnostic tool
-- [nexttrace](https://github.com/sjlleo/nexttrace): An open source visual route tracking CLI tool
+- [nexttrace](https://github.com/sjlleo/nexttrace): 
 
 ## `nmap` Network exploration tool and security / port scanner
 
