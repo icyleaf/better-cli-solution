@@ -20,6 +20,12 @@ sections:
       - name: broot
         repo: https://github.com/Canop/broot
 
+  - name: cp
+    description: Copy files
+    alternatives:
+      - name: mc
+        repo: https://github.com/thewh1teagle/mc
+
   - name: ls
     description: Directory Listing
     alternatives:
