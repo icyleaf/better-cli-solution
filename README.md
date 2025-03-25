@@ -50,6 +50,7 @@
 - [pingtop](https://github.com/laixintao/pingtop): Ping multiple servers and show results in a top-like terminal UI.
 - [gping](https://github.com/orf/gping): Ping, but with a graph
 - [nali](https://github.com/zu1k/nali): An offline tool for querying IP geographic information and CDN provider. 一个查询IP地理信息和CDN服务提供商的离线终端工具.
+- [Nping](https://github.com/hanshuaikang/Nping): 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations
 
 ## `history` Shell history
 
