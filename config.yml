@@ -87,6 +87,8 @@ sections:
         repo: https://github.com/orf/gping
       - name: nali
         repo: https://github.com/zu1k/nali
+      - name: Nping
+        repo: https://github.com/hanshuaikang/Nping
 
   - name: history
     description: Shell history
