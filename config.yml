@@ -230,7 +230,15 @@ sections:
       - name: shcopy
         repo: https://github.com/aymanbagabas/shcopy
 
+  - name: kill
+    description: Processes killer
+    alternatives:
+      - name: fkill
+        repo: https://github.com/sindresorhus/fkill-cli
+
   - description: Package version manager
     alternatives:
       - name: asdf
         repo: https://github.com/asdf-vm/asdf
+      - name: mise
+        repo: https://github.com/jdx/mise
