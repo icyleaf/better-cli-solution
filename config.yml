@@ -181,6 +181,13 @@ sections:
       - name: cloc
         repo: https://github.com/AlDanial/cloc
 
+  - name: mv
+    description: Renaming files
+    alternatives:
+      - name: f2
+        repo: https://github.com/ayoisaiah/f2
+
+
   - name: screen
     description: Screen manager
     alternatives:
