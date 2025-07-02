@@ -108,6 +108,10 @@
 
 - [cloc](https://github.com/AlDanial/cloc): cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 
+## `mv` Renaming files
+
+- [f2](https://github.com/ayoisaiah/f2): F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
+
 ## `screen` Screen manager
 
 - [tmux](https://github.com/tmux/tmux): tmux source code
