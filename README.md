@@ -36,7 +36,7 @@
 - [glances](https://github.com/nicolargo/glances): Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [rtop](https://github.com/rapidloop/rtop): rtop is an interactive, remote system monitoring tool based on SSH
 
-## `du` Disk Usage Analyze
+## `du`/`df` Disk Usage Analyze
 
 - [ncdu](https://code.blicky.net/yorhel/ncdu): NCurses Disk Usage
 - [duf](https://github.com/muesli/duf): Disk Usage/Free Utility - a better 'df' alternative
