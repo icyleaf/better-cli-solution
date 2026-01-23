@@ -193,6 +193,8 @@ sections:
     alternatives:
       - name: tmux
         repo: https://github.com/tmux/tmux
+      - name: zellij
+        repo: https://github.com/zellij-org/zellij
 
   - name: dmesg
     description: Display the system message
