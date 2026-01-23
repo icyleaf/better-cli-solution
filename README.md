@@ -26,7 +26,7 @@
 - [ripgrep](https://github.com/BurntSushi/ripgrep): ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [jq](https://github.com/stedolan/jq): 
 - [fx](https://github.com/antonmedv/fx): Terminal JSON viewer & processor
-- [yq](https://github.com/mikefarah/yq): yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+- [yq](https://github.com/mikefarah/yq): yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 
 ## `top` Process viewer
 
@@ -36,7 +36,7 @@
 - [glances](https://github.com/nicolargo/glances): Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [rtop](https://github.com/rapidloop/rtop): rtop is an interactive, remote system monitoring tool based on SSH
 
-## `du`/`df` Disk Usage Analyze
+## `du` Disk Usage Analyze
 
 - [ncdu](https://code.blicky.net/yorhel/ncdu): NCurses Disk Usage
 - [duf](https://github.com/muesli/duf): Disk Usage/Free Utility - a better 'df' alternative
@@ -115,6 +115,7 @@
 ## `screen` Screen manager
 
 - [tmux](https://github.com/tmux/tmux): tmux source code
+- [zellij](https://github.com/zellij-org/zellij): A terminal workspace with batteries included
 
 ## `dmesg` Display the system message
 
