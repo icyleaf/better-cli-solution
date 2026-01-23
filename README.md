@@ -26,7 +26,7 @@
 - [ripgrep](https://github.com/BurntSushi/ripgrep): ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [jq](https://github.com/stedolan/jq): 
 - [fx](https://github.com/antonmedv/fx): Terminal JSON viewer & processor
-- [yq](https://github.com/mikefarah/yq): yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+- [yq](https://github.com/mikefarah/yq): yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 
 ## `top` Process viewer
 
@@ -115,6 +115,7 @@
 ## `screen` Screen manager
 
 - [tmux](https://github.com/tmux/tmux): tmux source code
+- [zellij](https://github.com/zellij-org/zellij): A terminal workspace with batteries included
 
 ## `dmesg` Display the system message
 
