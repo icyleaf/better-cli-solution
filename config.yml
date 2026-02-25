@@ -128,6 +128,8 @@ sections:
     alternatives:
       - name: viddy
         repo: https://github.com/sachaos/viddy
+      - name: hwatch
+        repo: https://github.com/blacknon/hwatch
 
   - name: docker
     description: Docker inspect/ps/top/system
