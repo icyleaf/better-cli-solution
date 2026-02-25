@@ -75,6 +75,7 @@
 ## `watch` watch command
 
 - [viddy](https://github.com/sachaos/viddy): 👀 A modern watch command. Time machine and pager etc.
+- [hwatch](https://github.com/blacknon/hwatch): A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
 
 ## `docker` Docker inspect/ps/top/system
 
