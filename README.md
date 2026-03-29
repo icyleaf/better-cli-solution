@@ -43,7 +43,7 @@
 
 ## `man` CLI manual pages
 
-- [tldr](https://github.com/tldr-pages/tldr): 📚 Collaborative cheatsheets for console commands
+- [tldr](https://github.com/tldr-pages/tldr): Collaborative cheatsheets for console commands 📚.
 
 ## `ping` Network Datagram
 
@@ -129,6 +129,7 @@
 ## `netstat` Socket statistics
 
 - [neoss](https://github.com/PabloLec/neoss): :heavy_check_mark: User-friendly and detailed socket statistics with a Terminal UI.
+- [snitch](https://github.com/karol-broda/snitch): a prettier way to inspect network connections
 
 ## `traceroute` Network diagnostic tool
 
