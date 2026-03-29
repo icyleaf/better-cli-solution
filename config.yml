@@ -220,6 +220,8 @@ sections:
     alternatives:
       - name: neoss
         repo: https://github.com/PabloLec/neoss
+      - name: snitch
+        repo: https://github.com/karol-broda/snitch
 
   - name: traceroute
     description: Network diagnostic tool
