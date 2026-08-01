@@ -70,6 +70,8 @@ sections:
         description: NCurses Disk Usage
       - name: duf
         repo: https://github.com/muesli/duf
+      - name: leaves
+        repo: https://github.com/patonw/leaves
 
   - name: man
     description: CLI manual pages
