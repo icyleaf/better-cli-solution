@@ -14,7 +14,7 @@
 
 ## `cp` Copy files
 
-- [mc](https://github.com/thewh1teagle/mc): Modern file copying
+- [mc](https://github.com/thewh1teagle/mc): 
 
 ## `ls` Directory Listing
 
@@ -40,6 +40,7 @@
 
 - [ncdu](https://code.blicky.net/yorhel/ncdu): NCurses Disk Usage
 - [duf](https://github.com/muesli/duf): Disk Usage/Free Utility - a better 'df' alternative
+- [leaves](https://github.com/patonw/leaves): A text-mode disk usage visualization utility
 
 ## `man` CLI manual pages
 
@@ -50,7 +51,7 @@
 - [pingtop](https://github.com/laixintao/pingtop): Ping multiple servers and show results in a top-like terminal UI.
 - [gping](https://github.com/orf/gping): Ping, but with a graph
 - [nali](https://github.com/zu1k/nali): An offline tool for querying IP geographic information and CDN provider. 一个查询IP地理信息和CDN服务提供商的离线终端工具.
-- [Nping](https://github.com/hanshuaikang/Nping): 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations
+- [Nping](https://github.com/hanshuaikang/Nping): 
 
 ## `history` Shell history
 
@@ -75,7 +76,7 @@
 ## `watch` watch command
 
 - [viddy](https://github.com/sachaos/viddy): 👀 A modern watch command. Time machine and pager etc.
-- [hwatch](https://github.com/blacknon/hwatch): A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
+- [hwatch](https://github.com/blacknon/hwatch): hwatch: alternative watch command with history, diff view, JSONL logging, and change hooks. since 2018.
 
 ## `docker` Docker inspect/ps/top/system
 
@@ -87,7 +88,7 @@
 ## `git pager` Git displaying output tool
 
 - [tig](https://github.com/jonas/tig): Text-mode interface for git
-- [delta](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, grep, and blame output
+- [delta](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 
 ## `ssh` Remote login client
 
