@@ -10,7 +10,7 @@
 - [autojump](https://github.com/wting/autojump): A cd command that learns - easily navigate directories from the command line
 - [z](https://github.com/rupa/z): z - jump around
 - [zoxide](https://github.com/ajeetdsouza/zoxide): A smarter cd command. Supports all major shells.
-- [broot](https://github.com/Canop/broot): A new way to see and navigate directory trees : https://dystroy.org/broot
+- [broot](https://github.com/Canop/broot): A new way to see and navigate directory trees
 
 ## `cp` Copy files
 
@@ -33,7 +33,7 @@
 - [htop](https://github.com/htop-dev/htop): htop - an interactive process viewer
 - [bpytop](https://github.com/aristocratos/bpytop): Linux/OSX/FreeBSD resource monitor
 - [btop](https://github.com/aristocratos/btop): A monitor of resources
-- [glances](https://github.com/nicolargo/glances): Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [glances](https://github.com/nicolargo/glances): Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [rtop](https://github.com/rapidloop/rtop): rtop is an interactive, remote system monitoring tool based on SSH
 
 ## `du` Disk Usage Analyze
@@ -113,6 +113,10 @@
 ## `mv` Renaming files
 
 - [f2](https://github.com/ayoisaiah/f2): F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
+
+## `lsof` lists on its standard output file information about files opened by processes
+
+- [lsoff](https://github.com/yutat23/lsoff): CLI / TUI that lists listening TCP/UDP ports
 
 ## `screen` Screen manager
 
