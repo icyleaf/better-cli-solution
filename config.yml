@@ -191,6 +191,12 @@ sections:
       - name: f2
         repo: https://github.com/ayoisaiah/f2
 
+  - name: lsof
+    description: lists on its standard output file information about files opened by processes
+    alternatives:
+      - name: lsoff
+        repo: https://github.com/yutat23/lsoff
+
 
   - name: screen
     description: Screen manager
